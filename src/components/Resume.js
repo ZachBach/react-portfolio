@@ -6,7 +6,7 @@ function Resume() {
     <div>
       <div className='container'>
         <img
-          src={'assets/Images/Dev-resume.png'}
+          src={'./assets/Images/Dev-resume.png'}
           alt={'...'}
           style={{ paddingTop: '5px' }}
         />
