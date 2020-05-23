@@ -51,11 +51,6 @@ function About() {
           </div>
         </div>
       </div>
-      <img
-        src={'assets/Images/DevLogoAnimated.gif'}
-        alt={'...'}
-        style={{ paddingTop: '5px' }}
-      />
     </section>
   );
 }
