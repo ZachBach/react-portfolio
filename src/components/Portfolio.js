@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from './Footer';
 
 function Portfolio() {
   return (
@@ -181,6 +182,7 @@ function Portfolio() {
           </div>
         </div>
       </div>
+      <Footer />
     </section>
   );
 }

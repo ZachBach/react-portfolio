@@ -1,5 +1,7 @@
 import React from 'react';
 
+import '../styledcomponents/Homestyle.css';
+
 function Home() {
   return (
     <div className='landing-text'>

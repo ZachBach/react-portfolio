@@ -5,7 +5,7 @@ const Nav = () => {
   return (
     <nav
       className='navbar bg-primary'
-      style={{ fontSize: '4rem', justifyContent: 'center' }}>
+      style={{ fontSize: '4.2rem', justifyContent: 'center' }}>
       <ul>
         <li>
           <Link to='/'>Home</Link>

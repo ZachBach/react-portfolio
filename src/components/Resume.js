@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from './Footer';
 
 function Resume() {
   return (
@@ -7,9 +8,10 @@ function Resume() {
         <img
           src={'assets/Images/Dev-resume.png'}
           alt={'...'}
-          //   style={{ height: '1000px', width: '1000px' }}
+          style={{ paddingTop: '5px' }}
         />
       </div>
+      <Footer />
     </div>
   );
 }
